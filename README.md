@@ -13,10 +13,12 @@
   <br><br>
   <Strong>📚Study📚</Strong><br><br>
     <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C Language-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Vagrant-1868F2?style=flat-square&logo=vagrant&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white"/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+  
 </p>
 
 <div align=center>
