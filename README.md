@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=Waving&fontColor=ffffff&text=Hin_Jwan's%20GitHub%20&height=150&fontSize=60&desc=Welcome!&descAlignY=75&descAlign=60)
+![Header](https://capsule-render.vercel.app/api?type=Waving&fontColor=ffffff&text=Hin_Jwan's%20GitHub%20&height=200&fontSize=50&desc=Welcome!&descAlignY=75&descAlign=60)
 
 <br>
 
