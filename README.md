@@ -1,9 +1,15 @@
-![Header](https://capsule-render.vercel.app/api?type=Waving&fontColor=ffffff&text=Hin_Jwan's%20GitHub%20&height=200&fontSize=50&desc=Welcome!&descAlignY=75&descAlign=60)
-
+![Header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&fontColor=ffffff&text=Hin_Jwan's%20GitHub🐋%20&height=200&fontSize=50)
+## Intro
+반갑습니다🙌<br>
+☁️클라우드 엔지니어☁️를 꿈꾸고 있는 김진환입니다.<br>
+<br>
+Nice to meet you🙌<br>
+This is Kim Jin Hwan who dreams of becoming a ☁️Cloud Engineer☁️.<br>
 <br>
 
+## Information
 <p align="center">
-  <Strong>☁️SNS☁️</Strong><br><br>
+  <Strong>😀SNS😀</Strong><br><br>
     <a href="https://www.instagram.com/hin_jwan" target="_blank"><img src="https://img.shields.io/badge/hin_jwan-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hin_jwan"/></a>
     <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjh010131&count_bg=%233D46C8&title_bg=%23131841&icon=github.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=false"/></a>
     <br><br>
@@ -22,9 +28,13 @@
     <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 </p>
 
+## Statistics
 <div align=center>
   
   ![jh010131's github stats](https://github-readme-stats.vercel.app/api?username=jh010131&show_icons=true)
   
 </div>
-  
+
+## Education
+2020 ~ : Computer Engineering in DSU
+2023 ~ : Megazone Cloud Cloud engineer(NetOps) expert training course
