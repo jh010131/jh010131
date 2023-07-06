@@ -36,6 +36,6 @@ This is Kim Jin Hwan who dreams of becoming a ☁️Cloud Engineer☁️.<br>
 </div>
 
 ## Education
-2020 ~ : Computer Engineering in DSU<br>
+2020 ~ : __Computer Engineering__ in DSU<br>
 2023 ~ : Megazone Cloud Cloud engineer(NetOps) expert training course<br>
 
